@@ -1,7 +1,3 @@
-// 285991744e4696f85a3b7bd33fe867a0-us13
-// 1138729
-// f3899407f4
-
 const express = require("express");
 const bodyParser = require("body-parser");
 const request = require("request");
